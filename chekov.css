@@ -8,3 +8,18 @@
 .APLOMBOV{color: darkgreen;}
 .WAITER{color:darkblue;}
 .direction:hover { color: coral; background-color: chartreuse;}
+table, th, td {
+    border: 2px solid lightcoral;
+    border-collapse: collapse;
+    margin: 9px;
+}
+th,td {
+    text-align: center;padding: 9px;
+}
+tr:nth-child(even) {
+    background-color: lightcyan;
+  }
+th {
+    background-color:khaki;
+    font-style: oblique;
+}
