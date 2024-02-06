@@ -1,5 +1,6 @@
-.speech{color: black;font: 100; font-size: medium;}
-.direction{color: black;background-color: aqua;font: 300;font-size: medium;}
+.speech{color: black;font-style: oblique ; font-size: 15px;}
+.direction{color: black;background-color: aqua;font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;}
 .name{ 
     font: 100;color: cornsilk;
 }
