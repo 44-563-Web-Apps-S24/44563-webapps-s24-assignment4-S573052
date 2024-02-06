@@ -1,0 +1,9 @@
+.speech{color: black;font: 100; font-size: medium;}
+.direction{color: black;background-color: aqua;font: 300;font-size: medium;}
+.name{ 
+    font: 100;color: cornsilk;
+}
+.NASTASYA TIMOFEYEVNA{color:darkred;}
+.APLOMBOV{color: darkgreen;}
+.WAITER{color:darkblue;}
+.direction:hover { color: coral; background-color: chartreuse;}
