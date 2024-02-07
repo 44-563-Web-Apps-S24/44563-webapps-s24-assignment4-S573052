@@ -4,8 +4,8 @@
 .name{ 
     font: 100;color: cornsilk;
 }
-.NASTASYATIMOFEYEVNA{color:darkred;}
-.APLOMBOV{color: darkgreen;}
+.NASTASYATIMOFEYEVNA{color:darkred;border: 1px ; border-style: dashed;box-shadow: 10px 10px darkgreen;}
+.APLOMBOV{color: darkgreen;text-shadow: 2px 2px darkorange;}
 .WAITER{color:darkblue;}
 .GROOMSMAN{color: darkorange;}
 .direction:hover { color: coral; background-color: chartreuse;}
