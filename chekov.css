@@ -4,11 +4,12 @@
 .name{ 
     font: 100;color: cornsilk;
 }
-.NASTASYATIMOFEYEVNA{color:darkred;border: 1px ; border-style: dashed;box-shadow: 10px 10px darkgreen;}
-.APLOMBOV{color: darkgreen;text-shadow: 2px 2px darkorange;}
+.NASTASYATIMOFEYEVNA{color:darkred;}
+.APLOMBOV{color: darkgreen;}
 .WAITER{color:darkblue;}
 .GROOMSMAN{color: darkorange;}
 .direction:hover { color: coral; background-color: chartreuse;}
+.NASTASYATIMOFEYEVNA:hover{border: 1px ; border-style: dashed;box-shadow: 5px 5px darkgreen;}
 table, th, td {
     border: 2px solid lightcoral;
     border-collapse: collapse;
