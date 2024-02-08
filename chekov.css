@@ -9,7 +9,13 @@
 .WAITER{color:darkblue;}
 .GROOMSMAN{color: darkorange;}
 .direction:hover { color: coral; background-color: chartreuse;}
-.NASTASYATIMOFEYEVNA:hover{border: 1px ; border-style: dashed;box-shadow: 5px 5px darkgreen;}
+.NASTASYATIMOFEYEVNA:hover{border: 3px ; border-style: dashed;box-shadow: 5px 5px 5px darkgreen;text-shadow: 1px 1px yellow;}
+.APLOMBOV:hover{border: 3px ; border-style:groove;box-shadow: 5px 5px 5px darkgreen;text-shadow: 1px 1px orange;}
+.GROOMSMAN:hover{border: 3px ; border-style:dotted;box-shadow: 5px 5px 5px darkgreen;text-shadow: 1px 1px blueviolet;}
+.WAITER:hover{border: 3px ; border-style:inset;box-shadow: 5px 5px 5px darkgreen;text-shadow: 1px 1px red;}
+
+
+
 table, th, td {
     border: 2px solid lightcoral;
     border-collapse: collapse;
