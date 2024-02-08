@@ -31,3 +31,53 @@ th {
     background-color:khaki;
     font-style: oblique;
 }
+
+/* CSS combinator uses space here... 
+     We select any anchor that is a descendant of 
+     an appropriate ul used as a navbar.
+     */
+     ul.navbar-vertical {
+        /* remove these */
+        list-style-type: none;
+        margin: 0;
+        padding 0;
+        
+        width:70px;
+        background-color:red;
+      }
+      
+      ul.navbar-vertical a {
+        display: block; /* all is clickable */
+        color:#000;
+      }
+      /* on hover change the link color*/
+      ul.navbar-vertical a:hover {  
+        background-color: #555;
+        color:white;
+      }
+      
+      ul.navbar-horizontal {
+        /* remove these */
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      
+      }
+      
+      ul.navbar-horizontal li {
+        float:left;/* line up horizontally */
+        color:#000;
+        background-color:blueviolet;
+      }
+      
+      ul.navbar-horizontal a {
+        display:block;
+        padding:8px
+      }
+      
+      /* on hover change the link color*/
+      ul.navbar-horizontal a:hover {  
+        background-color: #555;
+        color:white;
+      }
+  
