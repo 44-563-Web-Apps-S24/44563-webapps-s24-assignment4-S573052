@@ -36,6 +36,13 @@ th {
      We select any anchor that is a descendant of 
      an appropriate ul used as a navbar.
      */
+     .btn{
+        background-color: DodgerBlue; /* Blue background */
+        border: none; /* Remove borders */
+        color: white; /* White text */
+        padding: 12px 16px; /* Some padding */
+        font-size: 16px;
+    }
      ul.navbar-vertical {
         /* remove these */
         list-style-type: none;
